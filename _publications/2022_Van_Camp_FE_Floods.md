@@ -1,15 +1,9 @@
 ---
-title: "Paper Title Number 2"
+title: "Extreme hydrometeorological events, a challenge for gravimetric and seismology networks."
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/2022_Van_Camp_FE_Floods
+date: 2022-03-28
+venue: 'Earth's Future'
+paperurl: 'https://doi.org/10.1029/2022EF002737'
+citation: 'Van Camp, M., de Viron, O., Dassargues, A., Delobbe, L., Chanard, K., & Gobron, K. (2022). &quot;Extreme hydrometeorological events, a challenge for gravimetric and seismology networks.&quot; <i>Earth's Future</i>. 10(4).'
 ---
-This paper is about the number 2. The number 3 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).

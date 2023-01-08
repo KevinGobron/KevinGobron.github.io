@@ -1,15 +1,9 @@
 ---
-title: "Paper Title Number 3"
+title: "Influence of aperiodic non?tidal atmospheric and oceanic loading deformations on the stochastic properties of global GNSS vertical land motion time series"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: /publication/2021_Gobron_JGRSE_NTAOL
+date: 2021-09-01
+venue: 'Journal of Geophysical Research: Solid Earth'
+paperurl: 'https://doi.org/10.1029/2021JB022370'
+citation: 'Gobron, K., Rebischung, P., Van Camp, M., Demoulin, A., & de Viron, O. (2021).&quot;Influence of Aperiodic Non?Tidal Atmospheric and Oceanic Loading Deformations on the Stochastic Properties of Global GNSS Vertical Land Motion Time Series.&quot; <i>Journal of Geophysical Research: Solid Earth</i>. 126(9).'
 ---
-This paper is about the number 3. The number 4 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
-
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).

@@ -1,5 +1,5 @@
-﻿---
-title: "Stress transmission along mid-crustal faults highlighted by the 2021 Mw 6.5 San Juan (Argentina) earthquake."
+---
+title: "Stress transmission along mid-crustal faults highlighted by the 2021 Mw 6.5 San Juan (Argentina) earthquake"
 collection: publications
 permalink: /publication/2022_Ammirati_SR_San_Juan
 date: 2022-10-26
