@@ -38,7 +38,7 @@ Work experience
   * University of La Rochelle, University of Liege, Royal Observeatory of Belgium
   * Ph.D Thesis: Statistical analysis of vertical land motions and sea level measurements at the coast
   * Supervisors: Olivier de Viron, Michel Van Camp, Alain Demoulin
-  * Funding: Agence Innovation Défence & Région Nouvelle-Aquitaine
+  * Funding: Agence Innovation Défense & Région Nouvelle-Aquitaine
   
 Skills
 ======
@@ -51,9 +51,10 @@ Skills
 * Geodesy
   * Global Naviguation Satellite Systems
   * Terrestrial geodesy
+  * Sea-level measurements
 
 * Programming
-  * Python
+  * Python3
 
 Publications
 ======
