@@ -20,24 +20,24 @@ Work experience
   * Institut de Physique du Globe de Paris (IPGP), Paris, France
   * Goal: Developping a realistic spatio-temporal modelling of GNSS position time series
   * Supervisor: Paul Rebischung
-  * Funding: Centre National d'Etudes Spatiales (CNES) postdoctoral research grant
+  * Funding: Centre National d'Études Spatiales (CNES) postdoctoral research grant
 
 * February 2021 - July 2022: Postdoc
   * Royal Observeatory of Belgium, Uccle, Belgium
-  * Goal: Statistical modelling of geodetic time series applied to the monitoring of groundwater-related deformation
+  * Goal: Statistical modelling of GNSS and InSAR-based position time series applied to the monitoring of groundwater-induced deformation
   * Supervisor: Michel Van Camp
   * Funding: Belgian Science Policy (BELSPO)
 
 * November 2020 - December 2020: Research Engineer
   * University of La Rochelle, La Rochelle, France
-  * Goal: Statistical modelling of the position time series made available by the SONEL service
+  * Goal: Statistical modelling of the GNSS position time series made available by the SONEL service
   * Supervisor: Guy Woppelmann
   * Funding: Centre National de la Recherche Scientifique (CNRS)
 
 * November 2017 - October 2020: Ph.D. Candidate
-  * University of La Rochelle, University of La Rochelle, Royal Observeatory of Belgium
+  * University of La Rochelle, University of Liege, Royal Observeatory of Belgium
   * Ph.D Thesis: Statistical analysis of vertical land motions and sea level measurements at the coast
-  * Supervisor: Olivier de Viron, Michel Van Camp, Alain Demoulin
+  * Supervisors: Olivier de Viron, Michel Van Camp, Alain Demoulin
   * Funding: Agence Innovation Défence & Région Nouvelle-Aquitaine
   
 Skills
@@ -51,7 +51,6 @@ Skills
 * Geodesy
   * Global Naviguation Satellite Systems
   * Terrestrial geodesy
-  * 
 
 * Programming
   * Python
