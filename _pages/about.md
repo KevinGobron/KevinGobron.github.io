@@ -12,7 +12,7 @@ I'm an early career geodesist who loves developing data analysis methods to imag
 
 My current research focuses on improving statistical methods devoted to **realistic uncertainty assessment** to improve the description of **geophysical signals**. I'm also interested in developing *data combination/assimilation* strategies, which benefits many geodetic and geophysical applications by pushing further the limits of geodetic systems' accuracy.
 
-Currently, my research directly contributes to the scientific applications of **Global Navigation Satellite Systems** and **Terrestrial Reference Frames**. However, I'm also seeking to play a role in geodynamic to sea-level change researchs.
+Currently, my research directly contributes to the scientific applications of **Global Navigation Satellite Systems (GNSS)** and **Terrestrial Reference Frames (TRF)**. However, I'm also seeking to play a role in more geophysics-oriented fields, such as geodynamic and sea-level change researchs.
 
 Realistic uncertainty assessment
 ======
