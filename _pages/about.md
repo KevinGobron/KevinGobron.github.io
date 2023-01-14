@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Geodesy and statistics: an essential duo for anticipating changes on a dynamic Earth."
+title: "Geodesy & Statistics: an essential duo for anticipating changes on a dynamic Earth."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,9 +10,9 @@ redirect_from:
 
 I'm an early career geodesist who loves developing data analysis methods to image the Earth's dynamic better. I'm currently a postdoc within the geodesy team of the Globe's Physics Institute in Paris (IPGP).
 
-My current research focuses on improving statistical methods devoted to *realistic uncertainty assessment* to improve the description of *geophysical signals*. I'm also interested in developing *data combination/assimilation* strategies, which benefits many geodetic and geophysical applications by pushing further the limits of geodetic systems' accuracy.
+My current research focuses on improving statistical methods devoted to **realistic uncertainty assessment** to improve the description of **geophysical signals**. I'm also interested in developing *data combination/assimilation* strategies, which benefits many geodetic and geophysical applications by pushing further the limits of geodetic systems' accuracy.
 
-Currently, my research directly contributes to the scientific applications of *Global Satellite Naviguation Systems* and *Terrestrial Reference Frames*. However, I'm also seeking to play a role in geodynamic to sea-level change researchs.
+Currently, my research directly contributes to the scientific applications of **Global Navigation Satellite Systems** and **Terrestrial Reference Frames**. However, I'm also seeking to play a role in geodynamic to sea-level change researchs.
 
 Realistic uncertainty assessment
 ======
