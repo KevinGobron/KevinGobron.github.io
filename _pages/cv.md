@@ -9,12 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* M.S. in Land Surveying & Geodesy, École Supérieure des Géomètres et Topographes (ESGT), (2017)
-* Ph.D. in Geodesy, University of La Rochelle, University of Liege, (2021)
-
-Work experience
+Research experience
 ======
 * October 2022 - September 2024: Postdoc
   * Institut de Physique du Globe de Paris (IPGP), Paris, France
@@ -39,6 +34,11 @@ Work experience
   * Ph.D Thesis: Statistical analysis of vertical land motions and sea level measurements at the coast
   * Supervisors: Olivier de Viron, Michel Van Camp, Alain Demoulin
   * Funding: Agence Innovation Défense & Région Nouvelle-Aquitaine
+
+Education
+======
+* M.S. in Land Surveying & Geodesy, École Supérieure des Géomètres et Topographes (ESGT), (2017)
+* Ph.D. in Geodesy, University of La Rochelle, University of Liege, (2021)
   
 Skills
 ======
@@ -51,10 +51,10 @@ Skills
 * Geodesy
   * Global Naviguation Satellite Systems
   * Terrestrial geodesy
-  * Sea-level measurements
+  * Sea-level measurement
 
 * Programming
-  * Python3
+  * Python 3
 
 Publications
 ======
